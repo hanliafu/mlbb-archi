@@ -1,1 +1,140 @@
-[{"team_id":0,"team":"Team 1","jungler":"HCCS - Hanli Afu Muhammad","explaner":"FLEET MANAGEMENT - Stefanus Soni Karangan","midlaner":"PLANNING - Kristika Diana Kolengen","roamer":"PERMIT & COMPLIANCE - Bryan Azinudin Akbar","goldlaner":"GEOLOGY - Aldrianto Rambe"},{"team_id":1,"team":"Team 2","jungler":"CORPORATE PROCUREMENT - Lenny Mantiri","explaner":"HCCS - Himawan","midlaner":"EXPLORATION - Prisaldi masala","roamer":"MINING - David Littik","goldlaner":"PROJECT GEOLOGY - Ester Christiani"},{"team_id":2,"team":"Team 3","jungler":"PLANNING - Falensius Tatandos","explaner":"TSF & MINE PROJECT - Kevin Kindangen","midlaner":"GEOTECH & HYDROGEOLOGICAL - Dewa Widyanto","roamer":"TECHNICAL SERVICE - Glorify Rondonuwu","goldlaner":"Harry Margatan Sopandy"},{"team_id":3,"team":"Team 4","jungler":"WAREHOUSE & INVENTORY - Christovel Simbolon","explaner":"SALES & MARKETING - Rafdi Zahardin","midlaner":"OHS OPERATIONAL - Fernanda R Prima","roamer":"PROCESS PLANT - Ano Jumisa","goldlaner":"MINE DEWATERING - Eko Prasetyo"},{"team_id":4,"team":"Team 5","jungler":"EXPLORATION - Wendy Rumajar","explaner":"GEOTECH & HIDROGEOLOGICAL - Davidson Sherwin Takalamingan","midlaner":"MAINTENANCE ELECTRICAL - Simon Rumende","roamer":"FLEET MANAGEMENT - Anggre Denis","goldlaner":"PLANNING - BILLY KENT KARUNDENG"},{"team_id":5,"team":"Team 6","jungler":"TRANSPORT - Christian Liando","explaner":"ENVIRONMENTAL MGMT - Brily Katuuk","midlaner":"SUPPLY CHAIN - Hermon Alando Rantung","roamer":"MAINTENANCE MOBILE - Bernafel Pongoh","goldlaner":"DRILL & BLAST - Renaldy Kyfen Kapoyos"},{"team_id":6,"team":"Team 7","jungler":"RELIABILITY - Michael Manumpil","explaner":"DRILL & BLAST - Pradila Galuh Savitri Hulalata","midlaner":"INFORMATION TECHNOLOGY - Indra datau","roamer":"APPLICATION - Stiewart Raturandang","goldlaner":"RECLAMATION & BIODIVERSITY - ALFANDI ZAMAN"},{"team_id":7,"team":"Team 8","jungler":"MAINTENANCE MOBILE - Junaydi","explaner":"PROCESS PLANT - Alfian nasir","midlaner":"ACCOUNT PAYABLE - Mario Margo Kaunang","roamer":"INFORMATION TECHNOLOGY - Randy Fransian Kauwo","goldlaner":"GEOTECH & HYDROGEOLOGICAL - Barkah Tutuko Aji"},{"team_id":8,"team":"Team 9","jungler":"MINE DEWATERING - Rolando maluenseng","explaner":"SUPPLY CHAIN - Adriansyah Djamaludin","midlaner":"MANAGEMENT - Leo Kahendro","roamer":"ENVIRONMENTAL MGMT - Juliana Frindah Kalalo","goldlaner":"MINE DEWATERING - Gearhart Septama Mokosuli"},{"team_id":9,"team":"Team 10","jungler":"PROCESSING - Jecki Fernando Tuuk","explaner":"GEOTECH & HYDROGEOLOGICAL - AGUNG CAHYONO","midlaner":"IT DEVELOPMENT & PROJECT - Fachmi Anggakusumah","roamer":"MAINTENANCE ELECTRICAL - Alan logor","goldlaner":"PROCESS PLANT - Jitro Tarameng"},{"team_id":10,"team":"Team 11","jungler":"PROJECT - Herwi Hans Tandaju","explaner":"GEOTECH & HYDROGEOLOGICAL - DIAMONLI MANGAWENG","midlaner":"MINE PLANNING - Nicholas Vincento","roamer":"PROJECT GEOLOGY - Reynaldo Aditya Karamoy","goldlaner":"PROJECT GEOLOGY - Weldy Moningkey"},{"team_id":11,"team":"Team 12","jungler":"GEOTECH & HYDROGEOLOGICAL - Ammar haikhal papunggo","explaner":"PROJECT GEOLOGY - jumran bimbing","midlaner":"COMPLIANCE - Reinier kawuwung","roamer":"MAINTENANCE ELECTRICAL - Dwicky Ponamon","goldlaner":"Andrias Linggi"},{"team_id":12,"team":"Team 13","jungler":"PROJECT GEOLOGY - Andrei N Dondokambey","explaner":"MINE DEWATERING - marco michael arya senduk","midlaner":"IT DEVELOPMENT & PROJECT - Ovyla H Septiary","roamer":"ENVIRONMENTAL MGMT - Fredrik Anthon Kepel","goldlaner":"MINE SURVEY - Gunayel Kharis"},{"team_id":13,"team":"Team 14","jungler":"RELIABILITY - GERALD SUMLANG","explaner":"GIS & SUPPORT - Yoman Banea","midlaner":"PLANNING - Omega Triana Banea","roamer":"PROCESS PLANT - Aking sabanari","goldlaner":"PROCESS PLANT - Vicky Popato"},{"team_id":14,"team":"Team 15","jungler":"CORPORATE PROCUREMENT - Richard Mampouw","explaner":"MANAGEMENT - Juanda","midlaner":"MINE SURVEY - MOURITS WENSEN","roamer":"GEOLOGY - Muhammad Adnan Husain","goldlaner":"CORPORATE CONTRACT - Surya Wijaya"},{"team_id":15,"team":"Team 16","jungler":"ENVIRONMENTAL MGMT - Ronald bansaleng","explaner":"IT DEVELOPMENT & PROJECT - Agus Dwi Purnomo","midlaner":"IT - Jeffry Purwanto","roamer":"MAINTENANCE MECHANICAL - Steven Samah","goldlaner":"MAINTENANCE ELECTRICAL - Aldy benedictus bey"},{"team_id":16,"team":"Team 17","jungler":"FLEET MANAGEMENT - Reyham Nopriadi","explaner":"HCCS - Andre Efan Dotulong","midlaner":"PROJECT - Shancha Ricardo Agusta","roamer":"RECLAMATION & BIODIVERSITY - DAUD YAFET SLAMAT","goldlaner":"RECLAMATION & BIODIVERSITY - Yahya Laisa"}]
+{
+    [
+        {
+            "team": "Team 1",
+            "jungler": "HCCS - Hanli Afu Muhammad",
+            "explaner": "FLEET MANAGEMENT - Stefanus Soni Karangan",
+            "midlaner": "PLANNING - Kristika Diana Kolengen",
+            "roamer": "PERMIT & COMPLIANCE - Bryan Azinudin Akbar",
+            "goldlaner": "GEOLOGY - Aldrianto Rambe"
+        },
+        {
+            "team": "Team 2",
+            "jungler": "CORPORATE PROCUREMENT - Lenny Mantiri",
+            "explaner": "HCCS - Himawan",
+            "midlaner": "EXPLORATION - Prisaldi masala",
+            "roamer": "MINING - David Littik",
+            "goldlaner": "PROJECT GEOLOGY - Ester Christiani"
+        },
+        {
+            "team": "Team 3",
+            "jungler": "PLANNING - Falensius Tatandos",
+            "explaner": "TSF & MINE PROJECT - Kevin Kindangen",
+            "midlaner": "GEOTECH & HYDROGEOLOGICAL - Dewa Widyanto",
+            "roamer": "TECHNICAL SERVICE - Glorify Rondonuwu",
+            "goldlaner": "Harry Margatan Sopandy"
+        },
+        {
+            "team": "Team 4",
+            "jungler": "WAREHOUSE & INVENTORY - Christovel Simbolon",
+            "explaner": "SALES & MARKETING - Rafdi Zahardin",
+            "midlaner": "OHS OPERATIONAL - Fernanda R Prima",
+            "roamer": "PROCESS PLANT - Ano Jumisa",
+            "goldlaner": "MINE DEWATERING - Eko Prasetyo"
+        },
+        {
+            "team": "Team 5",
+            "jungler": "EXPLORATION - Wendy Rumajar",
+            "explaner": "GEOTECH & HIDROGEOLOGICAL - Davidson Sherwin Takalamingan",
+            "midlaner": "MAINTENANCE ELECTRICAL - Simon Rumende",
+            "roamer": "FLEET MANAGEMENT - Anggre Denis",
+            "goldlaner": "PLANNING - BILLY KENT KARUNDENG"
+        },
+        {
+            "team": "Team 6",
+            "jungler": "TRANSPORT - Christian Liando",
+            "explaner": "ENVIRONMENTAL MGMT - Brily Katuuk",
+            "midlaner": "SUPPLY CHAIN - Hermon Alando Rantung",
+            "roamer": "MAINTENANCE MOBILE - Bernafel Pongoh",
+            "goldlaner": "DRILL & BLAST - Renaldy Kyfen Kapoyos"
+        },
+        {
+            "team": "Team 7",
+            "jungler": "RELIABILITY - Michael Manumpil",
+            "explaner": "DRILL & BLAST - Pradila Galuh Savitri Hulalata",
+            "midlaner": "INFORMATION TECHNOLOGY - Indra datau",
+            "roamer": "APPLICATION - Stiewart Raturandang",
+            "goldlaner": "RECLAMATION & BIODIVERSITY - ALFANDI ZAMAN"
+        },
+        {
+            "team": "Team 8",
+            "jungler": "MAINTENANCE MOBILE - Junaydi",
+            "explaner": "PROCESS PLANT - Alfian nasir",
+            "midlaner": "ACCOUNT PAYABLE - Mario Margo Kaunang",
+            "roamer": "INFORMATION TECHNOLOGY - Randy Fransian Kauwo",
+            "goldlaner": "GEOTECH & HYDROGEOLOGICAL - Barkah Tutuko Aji"
+        },
+        {
+            "team": "Team 9",
+            "jungler": "MINE DEWATERING - Rolando maluenseng",
+            "explaner": "SUPPLY CHAIN - Adriansyah Djamaludin",
+            "midlaner": "MANAGEMENT - Leo Kahendro",
+            "roamer": "ENVIRONMENTAL MGMT - Juliana Frindah Kalalo",
+            "goldlaner": "MINE DEWATERING - Gearhart Septama Mokosuli"
+        },
+        {
+            "team": "Team 10",
+            "jungler": "PROCESSING - Jecki Fernando Tuuk",
+            "explaner": "GEOTECH & HYDROGEOLOGICAL - AGUNG CAHYONO",
+            "midlaner": "IT DEVELOPMENT & PROJECT - Fachmi Anggakusumah",
+            "roamer": "MAINTENANCE ELECTRICAL - Alan logor",
+            "goldlaner": "PROCESS PLANT - Jitro Tarameng"
+        },
+        {
+            "team": "Team 11",
+            "jungler": "PROJECT - Herwi Hans Tandaju",
+            "explaner": "GEOTECH & HYDROGEOLOGICAL - DIAMONLI MANGAWENG",
+            "midlaner": "MINE PLANNING - Nicholas Vincento",
+            "roamer": "PROJECT GEOLOGY - Reynaldo Aditya Karamoy",
+            "goldlaner": "PROJECT GEOLOGY - Weldy Moningkey"
+        },
+        {
+            "team": "Team 12",
+            "jungler": "GEOTECH & HYDROGEOLOGICAL - Ammar haikhal papunggo",
+            "explaner": "PROJECT GEOLOGY - jumran bimbing",
+            "midlaner": "COMPLIANCE - Reinier kawuwung",
+            "roamer": "MAINTENANCE ELECTRICAL - Dwicky Ponamon",
+            "goldlaner": "Andrias Linggi"
+        },
+        {
+            "team": "Team 13",
+            "jungler": "PROJECT GEOLOGY - Andrei N Dondokambey",
+            "explaner": "MINE DEWATERING - marco michael arya senduk",
+            "midlaner": "IT DEVELOPMENT & PROJECT - Ovyla H Septiary",
+            "roamer": "ENVIRONMENTAL MGMT - Fredrik Anthon Kepel",
+            "goldlaner": "MINE SURVEY - Gunayel Kharis"
+        },
+        {
+            "team": "Team 14",
+            "jungler": "RELIABILITY - GERALD SUMLANG",
+            "explaner": "GIS & SUPPORT - Yoman Banea",
+            "midlaner": "PLANNING - Omega Triana Banea",
+            "roamer": "PROCESS PLANT - Aking sabanari",
+            "goldlaner": "PROCESS PLANT - Vicky Popato"
+        },
+        {
+            "team": "Team 15",
+            "jungler": "CORPORATE PROCUREMENT - Richard Mampouw",
+            "explaner": "MANAGEMENT - Juanda",
+            "midlaner": "MINE SURVEY - MOURITS WENSEN",
+            "roamer": "GEOLOGY - Muhammad Adnan Husain",
+            "goldlaner": "CORPORATE CONTRACT - Surya Wijaya"
+        },
+        {
+            "team": "Team 16",
+            "jungler": "ENVIRONMENTAL MGMT - Ronald bansaleng",
+            "explaner": "IT DEVELOPMENT & PROJECT - Agus Dwi Purnomo",
+            "midlaner": "IT - Jeffry Purwanto",
+            "roamer": "MAINTENANCE MECHANICAL - Steven Samah",
+            "goldlaner": "MAINTENANCE ELECTRICAL - Aldy benedictus bey"
+        },
+        {
+            "team": "Team 17",
+            "jungler": "FLEET MANAGEMENT - Reyham Nopriadi",
+            "explaner": "HCCS - Andre Efan Dotulong",
+            "midlaner": "PROJECT - Shancha Ricardo Agusta",
+            "roamer": "RECLAMATION & BIODIVERSITY - DAUD YAFET SLAMAT",
+            "goldlaner": "RECLAMATION & BIODIVERSITY - Yahya Laisa"
+        }
+    ]
+}
